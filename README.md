@@ -1,12 +1,12 @@
-# AWS VPC Peering (Multi-AZ) - POC 🚀
+# AWS VPC Peering (Multi-AZ) - POC 
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a **VPC Peering setup in AWS** to enable **private communication between two VPCs** across multiple Availability Zones.
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 * Understand VPC as a regional service
 * Implement **Multi-AZ architecture**
@@ -15,7 +15,7 @@ This project demonstrates a **VPC Peering setup in AWS** to enable **private com
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 Region: ap-south-1 (Mumbai)
 
